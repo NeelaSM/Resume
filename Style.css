@@ -1,0 +1,21 @@
+
+#navigation img {
+  width:50%;
+    
+  font-size: 2rem;
+  color: blue;
+  margin-right: 2rem;
+  box-shadow: 2px 2px 2px 2px black;
+  
+  
+}
+
+
+#hide h3{
+    
+  font-family: 'Ranchers', cursive;
+  position: fixed;
+    margin-left:125px;
+  margin-top: -130px;
+    
+  background-color:(255,255,255,1);
